@@ -1,4 +1,4 @@
-                                                                 Sistema de Empréstimos de Livros
+                                                  Sistema de Empréstimos de Livros
 
 Sobre o Projeto:
 Este é um sistema para gerenciamento de empréstimos de livros em uma biblioteca.
